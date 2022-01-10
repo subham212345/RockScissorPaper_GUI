@@ -14,3 +14,9 @@ Graphical User Interface(GUI) provides the logics to user in form of simple visu
 
 Tkinter is the in-built module to write GUI program in Python. <br />
 More information about Tkinter can be found [here](https://docs.python.org/3/library/tkinter.html#tkinter-modules)
+
+# Requirements
+
+The requiremts to run the program successfully are as follows:<br />
+* Version : Python 3.X
+* All the image files should be in the same directory as the mail.py file
