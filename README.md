@@ -25,6 +25,6 @@ Documentation about Pyinstaller can be found [here](https://pypi.org/project/pyi
 
 The requiremts to run the program successfully are as follows:<br />
 * Version : Python 3.X
-* All the image files should be in the same directory as the mail.py file
+* All the image files should be in the same directory as the main.py file
 
 For the exe application to run successfully, the Rock_Scissor_Paper_GUI.exe file and the image files have to be in the same directory
